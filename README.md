@@ -110,7 +110,7 @@ In the Standard Model with massless neutrinos, lepton flavor is conserved. Howev
 
 - Higgs boson decays: h → μe, h → τμ, h → τe
 - Z boson decays: Z → ℓᵢℓⱼ (i ≠ j)
-- Charged lepton decays: μ → eγ, τ → μγ, etc.
+- Charged lepton decays: μ → eγ, τ → μγ (in preogress), etc.
 
 ### Passarino-Veltman Functions
 
