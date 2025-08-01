@@ -164,3 +164,6 @@ GitHub repository: https://github.com/moiseszeleny/LFVXD
 
 - Passarino, G., & Veltman, M. J. G. (1979). One-loop corrections for e⁺e⁻ annihilation into μ⁺μ⁻ in the Weinberg model. Nuclear Physics B, 160(1), 151-207.
 - For physics references related to specific calculations, see the individual module documentation and example notebooks.
+
+## Acknowledgments
+The research presented herein has been supported by the UNAM Postdoctoral Program (POSDOC).
