@@ -1,5 +1,8 @@
 # LFVXD: Lepton Flavor Violating X Decays
 
+[![DOI](https://zenodo.org/badge/1030062094.svg)](https://doi.org/10.5281/zenodo.20130874)
+
+
 A Python library for symbolic and numerical calculations of Lepton Flavor Violating (LFV) particle decays, including Higgs bosons, Z bosons, and Seesaw neutrino models.
 
 ## Overview
